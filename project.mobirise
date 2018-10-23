@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "資管二-2 吳柏賢4210604059",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -35,7 +35,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
-    "versionPublish": "4.8.6"
+    "versionPublish": "4.8.6",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
